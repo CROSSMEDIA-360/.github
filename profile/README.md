@@ -1,4 +1,4 @@
-<a href="https://crossmedia360.com" style="color: white;"><img src="https://crossmedia360.com/wp-content/uploads/2018/03/logo-web-marketing-online-diseno-web.png"></a>
+<a href="https://crossmedia360.com" style="color: white;"><img src="https://crossmedia360.com/wp-content/uploads/2023/03/logo-definitivo-350x59-1.png"></a>
 
 ## Diseño Web
 

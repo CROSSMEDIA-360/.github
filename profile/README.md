@@ -1,4 +1,4 @@
-<a href="https://crossmedia360.com" style="color: white;"><img src="https://crossmedia360.com/wp-content/uploads/2023/03/logo-definitivo-350x59-1.png"></a>
+<a href="https://crossmedia360.com" style="color: white;"><img src="https://i.imgur.com/oc0xWM7.png"></a>
 
 ## Diseño Web
 
@@ -21,7 +21,4 @@ Conseguir las primeras posiciones de búsqueda en Google, influirá notablemente
 3. Redes sociales
 4. Inbound Marketing
 
-<hr />
-<img src="https://i.imgur.com/0YISrno.png">
-
-> CROSSMEDIA 360 © 22/23 TODOS LOS DERECHOS RESERVADOS.
+> CROSSMEDIA 360 © 23/24 TODOS LOS DERECHOS RESERVADOS.
